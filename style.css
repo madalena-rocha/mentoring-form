@@ -63,7 +63,7 @@ form {
 
     display: flex;
     flex-direction: column;
-    gap: 31px; /* 30px 32px*/
+    gap: 31px;
 }
 
 fieldset {
@@ -73,7 +73,7 @@ fieldset {
 .fieldset-wrapper {
     display: flex;
     flex-direction: column;
-    gap: 16px; /* exceções */
+    gap: 16px;
 }
 
 fieldset legend {
@@ -125,7 +125,7 @@ fieldset > legend:nth-child(1) {
 }
 
 .input-wrapper label span {
-    margin-left: 8px; /* valor médio */
+    margin-left: 8px;
 
     font-weight: 400;
     font-size: 12px;
