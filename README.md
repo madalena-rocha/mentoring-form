@@ -1,5 +1,5 @@
 # mentoring-form
-Desafio 02 do Explorer da Rocketseat, cujo objetivo foi a criação de dois formulários de mentoria, o primeiro para agendamento da mentoria, e o segundo para avaliação da mentoria.
+Desafio 03 do Explorer da Rocketseat, cujo objetivo foi a criação de dois formulários de mentoria, o primeiro para agendamento da mentoria, e o segundo para avaliação da mentoria.
 
 Formulário para agendamento da mentoria:
 
